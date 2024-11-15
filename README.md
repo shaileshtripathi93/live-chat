@@ -1,4 +1,5 @@
 # Live Chat Application
+![live-chat]()
 
 ## Project Overview
 This project is a live chat application built with **Node.js** and **Socket.io** for real-time communication. The frontend is created using **HTML**, **CSS**, and **JavaScript**. Users can join chat rooms and communicate in real-time with other connected users.
